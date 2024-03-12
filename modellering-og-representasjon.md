@@ -14,7 +14,9 @@ TODO Lim inn lenke til UML-diagram
 
 - Gjør oppgave [2.5  og 2.6](https://it2.thorcc.no/databehandling-og-algoritmer/flytdiagram#oppgaver) på [it2.thorcc.no](https://it2.thorcc.no).
 
-TODO Lim inn lenke til besvarelser på github
+DONE Lim inn lenke til besvarelser på github
+https://github.com/FizzoTopG/IT-2/blob/master/databehandling-og-algoritmer/oppgaver/2.6
+får ikke lagt til drawio filen
 
 ## Brukervennlighet i programmer
 

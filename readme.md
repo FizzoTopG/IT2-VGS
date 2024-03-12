@@ -12,7 +12,7 @@ For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SH
 Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
 DONE Les om TODOs  
-TODO Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`  
+DONE Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`  
 TODO Avtal tidspunkt for presentasjon innen 26. april
 
 ## Viktige datoer

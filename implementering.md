@@ -28,7 +28,9 @@ TODO: Lim inn lenke til kode som er dokumentert med docstrings
 - Gjør oppgave [2.20 eller 2.21](https://it2.thorcc.no/databehandling-og-algoritmer/storre-oppgaver)
 
 TODO Gjør oppgave 2.20 eller 2.21 som øving til tentamen  
-TODO Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+DONE Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+https://github.com/FizzoTopG/IT-2/tree/master/apputvikling/oppgave3
+
 
 ## Vern mot kjøretidsfeil og logiske feil i programmer
 
